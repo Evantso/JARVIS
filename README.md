@@ -1,6 +1,7 @@
 
 Project: JARVIS
-Description
+
+Description:
 The VoicePrint Copilot Earpiece is an innovative project that combines PyCharm, voiceprint recognition technology, and OpenAI's Whisper model to assist users in real-life conversations. This wearable device acts as a personal copilot, providing real-time speech recognition, language translation, and conversation suggestions discreetly through an earpiece. This README outlines the project setup, installation, and usage instructions.
 
 Features
